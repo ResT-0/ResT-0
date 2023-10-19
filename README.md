@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **nowere**
 
-- 🌱 I’m currently learning **NextUI, React, MongoBD**
+- 🌱 I’m currently learning **NextUI, React**
 
 - 👯 I’m looking to collaborate on **hhs0001**
 
-- 🤝 I’m looking for help with **javascript and typescript**
+- 🤝 I’m looking for help with **typescript**
 
 - 💬 Ask me about **phyton, and java**
 
