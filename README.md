@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **typescript**
 
-- 💬 Ask me about **phyton, and java**
+- 💬 Ask me about **phyton, and javaScript**
 
 - 📫 How to reach me **pereiramenis@gmail.com**
 
